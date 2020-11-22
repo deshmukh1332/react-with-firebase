@@ -7,5 +7,8 @@ the components directory has the view and pages .jsx files.
 
 the project has been linked to firestor of firebase for data storage of real time when we create a database
 
+the data is stored in firebase realtime-database when we submit in the title and content in create post 
+
 Issues:
 the real time database is not connected to directory and showing uncaught error: db.collection is not a function in firebase.js 
+
